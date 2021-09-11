@@ -1,3 +1,11 @@
+# REPO ON HOLD
+
+This repo is current on hold by the forker (AmazingGabriel16).
+
+# REPO FUTURE
+
+Lack of activiity was noticed in the original repo. This repo will hope to implement the issues raised in the previous repo, however it is currently on hold as I am too busy right now, but saved for later.
+
 List Of English Words
 =============
 
